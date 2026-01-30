@@ -1,4 +1,5 @@
 #EXTM3U 
+
 **********Cignal-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
@@ -1291,62 +1292,282 @@ http://supersonictv.live:8080/611366/682256/22124
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
-
-**********FM Radio**********
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fuyfjcn4gqee.png" group-title="Ph Live Radio",87.5 Republika FM1
-https://stream.zeno.fm/qnt98p5m108uv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/983/awr-manila-891.ab9269f0.png" group-title="Ph Live Radio",89.1 AWR Manila
-http://192.53.113.120:8000/stream?type=.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="Ph Live Radio",89.9 Magic
-https://stream.zeno.fm/sh37pvfd938uv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/141/dzmb-love-radio-907-fm.fd6dd832.png" group-title="Ph Live Radio",90.7 Love Radio
-https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://onlineradio.ph/uploads/img/91-5-win-radio-manila.jpg" group-title="Ph Live Radio",91.5 Win Radio
-https://stream.zeno.fm/nz4ydgnu6hhvv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/113/fm-radio-philippines.60a60500.jpg" group-title="Ph Live Radio",92.3 FM RADIO Manila
-http://us1.amfmph.com:8872/stream?type=.aac
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="Ph Live Radio",93.1 Monster Radio RX 
-https://in-icecast.eradioportal.com:8443/monsterrrx
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg" group-title="Ph Live Radio",95.5 Eagle FM
-http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/138/dwrk-963-easy-rock.c2c03660.png" group-title="Ph Live Radio",96.3 Easy Rock
-https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/669/dyrk-963-wrock.b988c09b.png" group-title="Ph Live Radio",96.3 WRocK
-https://wrockceb-iradioph.radioca.st/;?1764388585887
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="Ph Live Radio",97.9 Home Radio
-https://hrmanila.radioca.st/stream
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/673/dzfe-the-masters-touch-987-fm.d089acb9.jpg" group-title="Ph Live Radio",98.7 The Master's Touch
-http://sg-icecast.eradioportal.com:8000/febc_dzfe
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png" group-title="Ph Live Radio",101.1 Yes Fm
-https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s120158/images/logog.png?t=162748" group-title="Ph Live Radio",100.3 RJ FM
-https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png" group-title="Ph Live Radio",102.7 Star FM
-https://stream.zeno.fm/69b1kf7q0y5tv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/224/1035-k-lite.e3e0d2a2.png" group-title="Ph Live Radio",103.5 All Radio
-http://103.36.17.18:8000/stream
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/252/dwft-fm2-1043.4099fc68.png" group-title="Ph Live Radio",104.3 Capital FM2
-http://122.53.138.32:8000/dwbr.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
-http://ph-icecast.eradioportal.com:8000/energyfm_manila
-
+**********Moveonjoy**********
+#EXTINF:-1 tvg-id="WOLODT1.us@SD",ABC 25 Columbia
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WLSDT1.us@SD",ABC Chicago WLS-DT1
+https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACCN (720p)
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us@East",AMC East (1080p)
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AntennaTV.us@SD",Antenna TV
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+#EXTINF:-1 tvg-id="Aspire.us@SD",Aspire
+https://fl1.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us@SD",AXS TV
+https://fl1.moveonjoy.com/Axs_TV/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America East
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",BBC News North America
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BET.us@East",BET East
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BETGospel.us@SD",BET Gospel
+https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us@East",BET Her East
+https://fl1.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us@SD",BET Jams
+https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="BETSoul.us@SD",BET Soul
+https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us@SD",Big Ten Network
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV
+https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.us@SD",Bounce
+https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East",Bravo East
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us@SD",Buzzr
+https://fl1.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us@SD",C-SPAN
+https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="WBBMDT1.us@SD",CBS Chicago WBBM-DT1
+https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
+#EXTINF:-1 tvg-id="CBS.us@East",CBS East (720p)
+https://fl1.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD",CBS Sports Network USA
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CHBLTV.ca@SD",CHBL-TV
+https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
+#EXTINF:-1 tvg-id="CleoTV.us@SD",Cleo TV (720p)
+https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-id="CMT.us@East",CMT East
+https://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World
+https://fl1.moveonjoy.com/CNBC_World/index.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.us@SD",Comedy TV
+https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-id="Comet.us@SD",Comet
+https://fl1.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us@SD",Court TV
+https://fl1.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-id="CoziTV.us@SD",Cozi TV
+https://fl1.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-id="Crave1.ca@SD",Crave 1
+https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-id="Crave2.ca@SD",Crave 2
+https://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="Crave3.ca@SD",Crave 3
+https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-id="Crave4.ca@SD",Crave 4
+https://fl1.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.us@SD",Crime + Investigation
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-id="CuriosityStream.us@SD",CuriosityStream (720p)
+https://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+#EXTINF:-1 tvg-id="CVMTV.jm@SD",CVM TV
+https://fl1.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
+http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="E.us@East",E! East
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPN U (720p)
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews (720p)
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD",FanDuel Sports Network
+https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelTV.us@SD",FanDuel TV
+https://fl1.moveonjoy.com/TVG/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (720p)
+https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="WFLDDT1.us@SD",FOX Chicago WFLD-DT1
+https://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us@SD",Fox Soul
+https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="",Fox Sports 1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us@East",Free form East
+https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.us@East",Fuse East (720p)
+https://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East",FX East
+https://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXM.us@East",FXM East
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East",FXX East
+https://fl1.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FYI.us@East",FYI East
+https://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="GetTV.us@SD",GetTV (480p)
+https://fl1.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
+https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel East (720p)
+https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkDrama.us@SD",Hallmark Drama (720p)
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies Mysteries East
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East",History
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="HSN.us@East",HSN
+https://fl1.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-id="INSP.us@SD",INSP
+https://fl1.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-id="IONPlus.us@East",ION Plus East (720p)
+https://fl1.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 tvg-id="IONTV.us@East",ION TV East
+https://fl1.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime East
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies East
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@SD",Love Nature
+https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-id="",MAV TV (720p)
+https://fl1.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-id="MeTV.us@SD",MeTV
+https://fl1.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlus.us@East",MGM+ East
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MilitaryHistory.us@SD",Military History
+https://fl1.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us@SD",MLB Network
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MSG.us@SD",MSG
+https://fl1.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us@East",MTV2 (720p)
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us@East",MTV Classic (360p)
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us@East",MTV East
+https://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us@SD",MTV Live (720p)
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="Much.ca@SD",Much (720p)
+https://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us@East",National Geographic East
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@East",National Geographic Wild East
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="WMAQDT1.us@SD",NBC Chicago WMAQ-DT1
+https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.us@East",News Nation (720p)
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD",NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (720p)
+https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. East (720p)
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon East
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons East
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD",Outdoor Channel
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside TV
+https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Ovation.us@SD",Ovation (1080p)
+https://fl1.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-id="Oxygen.us@East",Oxygen East
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network East
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="PopTV.us@SD",Pop TV
+https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-id="PursuitChannel.us@SD",Pursuit Channel (720p)
+https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-id="QVC.us@SD",QVC (720p)
+https://fl1.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 tvg-id="Reelz.us@SD",Reelz (720p)
+https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-id="Revolt.us@SD",Revolt
+https://fl1.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2 East
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@East",Showtime East
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext.us@East",Showtime Next East
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@West",Showtime West (1080p)
+https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeWomen.us@East",Showtime Women East
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannel.us@East",Smithsonian Channel East
+https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.mx@SD",Sony Channel
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-id="SportsmanChannel.us@SD",Sportsman Channel
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD",SportsNet New York (540p)
+https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 tvg-id="StartTV.us@SD",Start TV
+https://fl1.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@East",Starz East
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic East
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@West",Starz West
+https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="StoriesbyAMC.us@EastHD",Stories by AMC (1080p)
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us@East",Sundance TV East
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us@East",Syfy East
+https://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us@East",TeenNick
+https://fl1.moveonjoy.com/Teen_Nick/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TheCowboyChannel.us@SD",The Cowboy Channel
+https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
+#EXTINF:-1 tvg-id="TVLand.us@East",TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-id="TVOne.us@SD",TV One
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
+http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us@East",VH1 East
+https://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="VICETV.us@SD",VICE TV (720p)
+https://fl1.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-id="WNetwork.ca@East",W Network (720p)
+https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WeTV.us@East",We TV East
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="WFLADT1.us@SD",WFLA-DT1
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 tvg-id="WFLXDT1.us@SD",WFLX-DT1
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+#EXTINF:-1 tvg-id="WFTSDT1.us@SD",WFTS-DT1
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WGNDT1.us@SD",WGN-DT1 (720p)
+https://fl1.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-id="WKCFDT1.us@SD",WKCF-DT1
+https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
+#EXTINF:-1 tvg-id="WorldFishingNetwork.us@SD",World Fishing Network
+https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WPECDT1.us@SD",WPEC-DT1
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WTOGDT1.us@SD",WTOG-DT1
+https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+#EXTINF:-1 tvg-id="WVGNLD1.vi@SD",WVGN-LD1
+https://fl1.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us@SD",Yes Network
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
